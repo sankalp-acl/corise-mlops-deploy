@@ -21,6 +21,7 @@ corise-mlops-deploy
 │   requirements.txt
 |   test_app.py
 |   __init__.py
+│   Makefile
 └───app
 │   │   server.py
 │   │   __init__.py
