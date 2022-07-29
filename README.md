@@ -28,9 +28,6 @@ corise-mlops-deploy
 └───data
 |    │   news_classifier.joblib
 |    |   logs.out
-└───venv
-     │   virtual environment
-     |
 ```
 
 Go to the `project` directory from the command line. This will be the home directory for your project. All command line commands that follow are from this directory.
